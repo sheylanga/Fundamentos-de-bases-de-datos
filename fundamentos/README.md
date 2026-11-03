@@ -83,7 +83,7 @@ fundamentos/
 │   └── Tarea_3.2/
 │       ├── README.md
 │       ├── Tarea_3.2.pdf
-│       └── Act_3.2.sql
+│       └── schema.sql
 ├── Unidad_4/
 │   ├── README.md
 │   ├── Tarea_4.1/
@@ -92,7 +92,7 @@ fundamentos/
 │   └── Tarea_4.2/
 │       ├── README.md
 │       ├── Tarea_4.2.pdf
-│       └── Act_4.2.sql
+│       └── normalized_schema.sql
 ├── Unidad_5/
 │   ├── README.md
 │   ├── Tarea_5.1/
