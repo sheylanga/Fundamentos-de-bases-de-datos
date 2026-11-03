@@ -89,9 +89,13 @@ flowchart TD
 | **Modelo NoSQL** | Optimizado para Big Data y esquemas flexibles. | Documentos (JSON), Clave-Valor, Grafos. | Alta escalabilidad horizontal y flexibilidad. | Sacrifica ACID estricto por disponibilidad (BASE). |
 
 ## Referencias y Agradecimientos
-* [Documentación de React](https://reactjs.org/)
-* Patrones de diseño por [Nombre del Autor](https://enlace.com)
-* Base de datos obtenida de [Kaggle](https://kaggle.com/dataset)
+* Codd, E. F. (1970). A relational model of data for large shared data banks. Communications of 
+the ACM, 13(6), 377–387.
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7.ª ed.). 
+McGraw-Hill Education. 
+* Date, C. J. (2004). An introduction to database systems (8.ª ed.). Pearson Education. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentos de sistemas de bases de datos (7.ª ed.). 
+Pearson Educación. 
 ---
 
 ## 📦 Entregable
