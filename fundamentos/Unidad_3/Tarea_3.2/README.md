@@ -53,6 +53,12 @@ flowchart TD
 | **Fechas y Marcas Temporales** | `DATE` / `TIMESTAMP` (`DATETIME2`) | Registros de precisión cronológica para nacimientos, citas y fechas/horas exactas de atención. |
 | **Moneda / Sueldos y Cantidades** | `DECIMAL(10,2)` / `INT` / `IDENTITY` | Precisión decimal exacta para evitar redondeos numéricos en salarios e identificadores autoincrementables. |
 
+## Referencias Bibliográficas
+* Date, C. J. (2004). An introduction to database systems (8th ed.). Addison-Wesley. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentals of database systems (7th ed.). Pearson. 
+* PostgreSQL Global Development Group. (2024). PostgreSQL 16.2 documentation: Data 
+definition language (DDL). 
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7th ed.). McGraw-Hill.
 ---
 
 ## 📦 Entregable
