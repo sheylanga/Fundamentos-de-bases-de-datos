@@ -121,6 +121,13 @@ erDiagram
 | `MEDICAMENTO` | `codigo_barras`, `nombre_comercial`, `dosis_recomendada` | **PK:** `codigo_barras` | Regla 1: Entidad Fuerte |
 | `PRESCRIPCION_DETALLE` | `id_prescripcion`, `id_consulta`, `codigo_barras`, `indicaciones`, `cantidad` | **PK:** `id_prescripcion` \| **FK1:** `id_consulta` \| **FK2:** `codigo_barras` | Regla 6: Agregación `N:M` |
 
+## Referencias Bibliográficas
+* Codd, E. F. (1970). A relational model of data for large shared data banks. Communications of 
+the ACM, 13(6), 377-387. 
+* Date, C. J. (2004). An introduction to database systems (8th ed.). Addison-Wesley. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentals of database systems (7th ed.). Pearson. 
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7th ed.). 
+McGraw-Hill. 
 ---
 
 ## 📦 Entregable
