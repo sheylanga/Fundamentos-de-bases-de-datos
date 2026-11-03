@@ -101,6 +101,15 @@ classDiagram
 | **Cardinalidad** | Min/Máx (e.g., `(1,1)`, `(0,N)`) | Multiplicidad (e.g., `1`, `0..*`, `1..*`) | Determina el uso de listas/colecciones en atributos de clase. |
 | **Especialización** | Jerarquía ISA / Círculo (`d,t` / `d,p`) | Generalización / Herencia (Triángulo) | Habilita el polimorfismo y la reutilización de código en el dominio. |
 
+## Referencias Bibliográficas
+* Ambler, S. W. (2003). Agile Database Techniques: Effective Strategies for the Agile Software 
+Developer. John Wiley & Sons. 
+* Connolly, T., & Begg, C. (2015). Sistemas de bases de datos: Un enfoque práctico para diseño, 
+implementación y gestión (5.ª ed.). Pearson Educación. 
+* Fowler, M. (2004). UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd 
+ed.). Addison-Wesley Professional. 
+* Object Management Group. (2017). Unified Modeling Language (OMG UML) Specification (Version 
+2.5.1).
 ---
 
 ## 📦 Entregable
