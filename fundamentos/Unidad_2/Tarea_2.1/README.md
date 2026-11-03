@@ -106,6 +106,15 @@ erDiagram
 | **Recibe** | `Paciente` : `Consulta_Médica` | `1 : N` | Paciente `(0,N)` - Consulta `(1,1)` | Un paciente recibe `N` consultas; una consulta pertenece a `1` solo paciente. |
 | **Prescribe** | `Atención_Médica (Agregación)` : `Medicamento` | `N : M` | Atención `(0,N)` - Medicamento `(0,M)` | Una atención médica prescribe `N` medicamentos; un medicamento se prescribe en `M` atenciones. |
 
+## Referencias Bibliográficas
+* Chen, P. P. (1976). The entity-relationship model—toward a unified view of data. ACM 
+Transactions on Database Systems (TODS), 1(1), 9–36. 
+* Coronel, C., & Morris, S. (2019). Database Systems: Design, Implementation, & Management 
+(13th ed.). Cengage Learning. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentos de sistemas de bases de datos (7.ª ed.). 
+Pearson Educación. 
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database System Concepts (7th ed.). 
+McGraw-Hill Education.
 ---
 
 ## 📦 Entregable
