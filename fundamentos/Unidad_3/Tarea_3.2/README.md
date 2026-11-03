@@ -64,7 +64,7 @@ definition language (DDL).
 ## 📦 Entregable
 
 - 📄 **Archivo PDF de la Actividad:** [`Tarea_3.2.pdf`](./Tarea_3.2.pdf)
-- 💻 **Script SQL con Pruebas DML:** [`Act_3.2.sql`](./Act_3.2.sql)
+- 💻 **Script SQL con Pruebas DML:** [`Act_3.2.sql`](./schema.sql)
 - 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/rEiKP-lVJgM)
 
 [![Ver PDF](https://img.shields.io/badge/PDF-Abrir_Tarea_3.2.pdf-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Tarea_3.2.pdf)
