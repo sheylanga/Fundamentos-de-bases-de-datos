@@ -88,7 +88,7 @@ flowchart TD
 | **Modelo ORDBMS** | Híbrido entre relacional y POO. | Tablas relacionales con tipos complejos. | Combina SQL con flexibilidad de objetos. | Mayor sobrecarga y complejidad conceptual. |
 | **Modelo NoSQL** | Optimizado para Big Data y esquemas flexibles. | Documentos (JSON), Clave-Valor, Grafos. | Alta escalabilidad horizontal y flexibilidad. | Sacrifica ACID estricto por disponibilidad (BASE). |
 
-## Referencias y Agradecimientos
+## Referencias Bibliográficas
 * Codd, E. F. (1970). A relational model of data for large shared data banks. Communications of 
 the ACM, 13(6), 377–387.
 * Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7.ª ed.). 
