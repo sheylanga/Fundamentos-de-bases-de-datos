@@ -88,6 +88,10 @@ flowchart TD
 | **Modelo ORDBMS** | Híbrido entre relacional y POO. | Tablas relacionales con tipos complejos. | Combina SQL con flexibilidad de objetos. | Mayor sobrecarga y complejidad conceptual. |
 | **Modelo NoSQL** | Optimizado para Big Data y esquemas flexibles. | Documentos (JSON), Clave-Valor, Grafos. | Alta escalabilidad horizontal y flexibilidad. | Sacrifica ACID estricto por disponibilidad (BASE). |
 
+## Referencias y Agradecimientos
+* [Documentación de React](https://reactjs.org/)
+* Patrones de diseño por [Nombre del Autor](https://enlace.com)
+* Base de datos obtenida de [Kaggle](https://kaggle.com/dataset)
 ---
 
 ## 📦 Entregable
