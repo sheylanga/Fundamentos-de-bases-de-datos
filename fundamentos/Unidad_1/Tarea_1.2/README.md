@@ -126,6 +126,13 @@ flowchart TD
     BM & FM & GI -->|E/S Físicas| DISK
 ```
 
+## Referencias Bibliográficas
+* Connolly, T. M., & Begg, C. E. (2015). Database systems: A practical approach to design, 
+implementation, and management (6th ed.). Pearson. 
+* Date, C. J. (2004). An introduction to database systems (8th ed.). Addison-Wesley. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentals of database systems (7th ed.). Pearson. 
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7th ed.). 
+McGraw-Hill. 
 ---
 
 ## 📦 Entregable
