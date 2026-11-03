@@ -61,6 +61,14 @@ flowchart TD
 | **1FN $\rightarrow$ 2FN** | Dependencia parcial: `(id_consulta, codigo_barras) -> nombre_med, dosis_rec` (dependen solo de `codigo_barras`). | Creación del catálogo independiente `MEDICAMENTO (codigo_barras PK, nombre_comercial, dosis_recomendada)`. |
 | **2FN $\rightarrow$ 3FN / FNBC** | Dependencias transitivas: `id_consulta -> cedula_medico -> nombre_medico, especialidad, sueldo` y `num_expediente -> curp_paciente -> nombre_paciente`. | Descomposición en entidades independientes `PERSONA`, `MEDICO`, `PACIENTE`, `PACIENTE_INTERNO`, `PACIENTE_AMBULATORIO` y `CONSULTA_MEDICA`. |
 
+## Referencias Bibliográficas
+* Codd, E. F. (1970). A relational model of data for large shared data banks. Communications of 
+the ACM, 13(6), 377–387. 
+* Connolly, T. M., & Begg, C. E. (2015). Database systems: A practical approach to design, 
+implementation, and management (6th ed.). Pearson. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentals of database systems (7th ed.). Pearson. 
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7th ed.). 
+McGraw-Hill. 
 ---
 
 ## 📦 Entregable
