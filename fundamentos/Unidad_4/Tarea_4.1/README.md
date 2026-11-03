@@ -68,6 +68,15 @@ flowchart TD
 | **Anomalía de Borrado** | Al dar de baja el expediente de un paciente dado de alta, se elimina el registro histórico del médico tratante. | Pérdida no deseada de metadatos clínicos e institucionales. |
 | **Anomalía de Modificación** | Si cambia el sueldo de un médico, debe actualizarse en 500 consultas históricas. Un fallo parcial genera inconsistencia. | Corrupción de integridad y duplicidad contradictoria de la verdad. |
 
+## Referencias Bibliográficas
+* Codd, E. F. (1970). A relational model of data for large shared data banks. Communications of 
+the ACM, 13(6), 377-387. 
+* Connolly, T. M., & Begg, C. E. (2015). Database systems: A practical approach to design, 
+implementation, and management (6th ed.). Pearson Education. 
+* Date, C. J. (2004). An introduction to database systems (8th ed.). Addison-Wesley. 
+* Elmasri, R., & Navathe, S. B. (2017). Fundamentals of database systems (7th ed.). Pearson. 
+* Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7th ed.). 
+McGraw-Hill.
 ---
 
 ## 📦 Entregable
