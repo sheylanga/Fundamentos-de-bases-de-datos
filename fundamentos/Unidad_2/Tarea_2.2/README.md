@@ -115,8 +115,8 @@ ed.). Addison-Wesley Professional.
 ## 📦 Entregable
 
 - 📄 **Archivo PDF de la Actividad:** [`Tarea_2.2.pdf`](./Tarea_2.2.pdf)
-- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/u3yXulWuM_s)
+- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/Zm-oGz7hNDE)
 
 [![Ver PDF](https://img.shields.io/badge/PDF-Abrir_Tarea_2.2.pdf-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Tarea_2.2.pdf)
-[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/u3yXulWuM_s)
+[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Zm-oGz7hNDE)
 
