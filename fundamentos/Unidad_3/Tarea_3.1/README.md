@@ -134,9 +134,9 @@ McGraw-Hill.
 
 - 📄 **Archivo PDF de la Actividad:** [`Tarea_3.1.pdf`](./Tarea_3.1.pdf)
 - 💻 **Script SQL DDL Ejecutable:** [`Act_3.1.sql`](./Act_3.1.sql)
-- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/1i_VYQquys8)
+- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/2Uxp1l8Yt1Q)
 
 [![Ver PDF](https://img.shields.io/badge/PDF-Abrir_Tarea_3.1.pdf-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Tarea_3.1.pdf)
 [![Ver SQL](https://img.shields.io/badge/SQL-Abrir_Act_3.1.sql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](./Act_3.1.sql)
-[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1i_VYQquys8)
+[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2Uxp1l8Yt1Q)
 
