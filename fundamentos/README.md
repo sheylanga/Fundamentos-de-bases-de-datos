@@ -120,10 +120,10 @@ Estudio de los fundamentos de los sistemas de bases de datos, objetivos operacio
 ### Actividades:
 - 📁 **[Tarea 1.1 — Conceptos Fundamentales, Mapa Conceptual y Modelos de Bases de Datos](./Unidad_1/Tarea_1.1/)**
   - 📄 Documento PDF: [`Tarea_1.1.pdf`](./Unidad_1/Tarea_1.1/Tarea_1.1.pdf)
-  - 🎥 Video en YouTube: [Ver explicación de Tarea 1.1 en YouTube](https://www.youtube.com/watch?v=Y0G9CcBtikM)
+  - 🎥 Video en YouTube: [Ver explicación de Tarea 1.1 en YouTube](https://youtu.be/QVfSlNtBBvs)
 - 📁 **[Tarea 1.2 — Clasificación de Bases de Datos, Arquitectura ANSI/SPARC y SGBD](./Unidad_1/Tarea_1.2/)**
   - 📄 Documento PDF: [`Tarea_1.2.pdf`](./Unidad_1/Tarea_1.2/Tarea_1.2.pdf)
-  - 🎥 Video en YouTube: [Ver explicación de Tarea 1.2 en YouTube](https://youtu.be/ui6-MONH-tc)
+  - 🎥 Video en YouTube: [Ver explicación de Tarea 1.2 en YouTube](https://youtu.be/IgBMPMZnauo)
 
 ---
 
@@ -134,10 +134,10 @@ Modelado conceptual del **Sistema de Información Hospitalaria (HIS)** bajo 10 r
 ### Actividades:
 - 📁 **[Tarea 2.1 — Diseño Conceptual E-R / E-RE del Sistema Hospitalario](./Unidad_2/Tarea_2.1/)**
   - 📄 Documento PDF: [`Tarea_2.1.pdf`](./Unidad_2/Tarea_2.1/Tarea_2.1.pdf)
-  - 🎥 Video en YouTube: [Ver explicación de Tarea 2.1 en YouTube](https://youtu.be/O1hbUj7mWUI)
+  - 🎥 Video en YouTube: [Ver explicación de Tarea 2.1 en YouTube](https://youtu.be/xbwvBevdhvA)
 - 📁 **[Tarea 2.2 — Transición Paradigmática E-R a Diagrama de Clases UML](./Unidad_2/Tarea_2.2/)**
   - 📄 Documento PDF: [`Tarea_2.2.pdf`](./Unidad_2/Tarea_2.2/Tarea_2.2.pdf)
-  - 🎥 Video en YouTube: [Ver explicación de Tarea 2.2 en YouTube](https://youtu.be/u3yXulWuM_s)
+  - 🎥 Video en YouTube: [Ver explicación de Tarea 2.2 en YouTube](https://youtu.be/Zm-oGz7hNDE)
 
 ---
 
@@ -149,7 +149,7 @@ Transformación rigurosa del modelo conceptual E-RE al **Modelo Relacional** de 
 - 📁 **[Tarea 3.1 — Componentes Formales del Modelo Relacional y Mapeo Lógico HIS](./Unidad_3/Tarea_3.1/)**
   - 📄 Documento PDF: [`Tarea_3.1.pdf`](./Unidad_3/Tarea_3.1/Tarea_3.1.pdf)
   - 💻 Script SQL: [`Act_3.1.sql`](./Unidad_3/Tarea_3.1/Act_3.1.sql) *(Creación DDL de la base de datos `hospital_db` y sus 10 tablas)*
-  - 🎥 Video en YouTube: [Ver explicación de Tarea 3.1 en YouTube](https://youtu.be/1i_VYQquys8)
+  - 🎥 Video en YouTube: [Ver explicación de Tarea 3.1 en YouTube](https://youtu.be/2Uxp1l8Yt1Q)
 - 📁 **[Tarea 3.2 — Implementación Física en SGBD y Pruebas de Integridad DML](./Unidad_3/Tarea_3.2/)**
   - 📄 Documento PDF: [`Tarea_3.2.pdf`](./Unidad_3/Tarea_3.2/Tarea_3.2.pdf)
   - 💻 Script SQL: [`Act_3.2.sql`](./Unidad_3/Tarea_3.2/Act_3.2.sql) *(Script DDL + Inserciones DML + Pruebas `TRY/CATCH` de restricciones `CHECK`)*
@@ -164,7 +164,7 @@ Análisis de Dependencias Funcionales (totales, parciales, transitivas, multival
 ### Actividades y Archivos SQL:
 - 📁 **[Tarea 4.1 — Concepto Formal de Normalización, Dependencias y Formas Normales (1FN a 5FN)](./Unidad_4/Tarea_4.1/)**
   - 📄 Documento PDF: [`Tarea_4.1.pdf`](./Unidad_4/Tarea_4.1/Tarea_4.1.pdf)
-  - 🎥 Video en YouTube: [Ver explicación de Tarea 4.1 en YouTube](https://youtu.be/RoamPY7YxBU)
+  - 🎥 Video en YouTube: [Ver explicación de Tarea 4.1 en YouTube](https://youtu.be/i140fBH1H3g)
 - 📁 **[Tarea 4.2 — Normalización Paso a Paso del Sistema Hospitalario (0FN a 3FN/FNBC)](./Unidad_4/Tarea_4.2/)**
   - 📄 Documento PDF: [`Tarea_4.2.pdf`](./Unidad_4/Tarea_4.2/Tarea_4.2.pdf)
   - 💻 Script SQL: [`Act_4.2.sql`](./Unidad_4/Tarea_4.2/Act_4.2.sql) *(Comparativa ejecutable entre tabla `0FN` y esquema normalizado en `3FN`)*
