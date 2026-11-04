@@ -10,7 +10,7 @@
 
 1. 📁 **[Tarea 4.1: Concepto Formal de Normalización, Dependencias Funcionales y Formas Normales (1FN a 5FN)](./Tarea_4.1/)**
    - 📄 Entregable PDF: [`Tarea_4.1.pdf`](./Tarea_4.1/Tarea_4.1.pdf)
-   - 🎥 Video en YouTube: [Ver explicación de Tarea 4.1 en YouTube](https://youtu.be/RoamPY7YxBU)
+   - 🎥 Video en YouTube: [Ver explicación de Tarea 4.1 en YouTube](https://youtu.be/i140fBH1H3g)
 2. 📁 **[Tarea 4.2: Normalización Paso a Paso del Sistema Hospitalario (0FN a 3FN / FNBC)](./Tarea_4.2/)**
    - 📄 Entregable PDF: [`Tarea_4.2.pdf`](./Tarea_4.2/Tarea_4.2.pdf)
    - 💻 Script SQL: [`normalized_schema.sql`](./Tarea_4.2/normalized_schema.sql)
