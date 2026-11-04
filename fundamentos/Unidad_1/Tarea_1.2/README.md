@@ -138,8 +138,8 @@ McGraw-Hill.
 ## 📦 Entregable
 
 - 📄 **Archivo PDF de la Actividad:** [`Tarea_1.2.pdf`](./Tarea_1.2.pdf)
-- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/ui6-MONH-tc)
+- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/IgBMPMZnauo)
 
 [![Ver PDF](https://img.shields.io/badge/PDF-Abrir_Tarea_1.2.pdf-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Tarea_1.2.pdf)
-[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ui6-MONH-tc)
+[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/IgBMPMZnauo)
 
