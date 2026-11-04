@@ -101,8 +101,8 @@ Pearson Educación.
 ## 📦 Entregable
 
 - 📄 **Archivo PDF de la Actividad:** [`Tarea_1.1.pdf`](./Tarea_1.1.pdf)
-- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/Y0G9CcBtikM)
+- 🎥 **Video Explicativo en YouTube:** [Ver video en YouTube](https://youtu.be/QVfSlNtBBvs)
 
 [![Ver PDF](https://img.shields.io/badge/PDF-Abrir_Tarea_1.1.pdf-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Tarea_1.1.pdf)
-[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Y0G9CcBtikM)
+[![YouTube](https://img.shields.io/badge/YouTube-Ver_Video_Explicativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/QVfSlNtBBvs)
 
